@@ -1,5 +1,5 @@
-# sbrepo
+# atividade-poo
 
-> **⚠️ Conteúdo movido:** este repositório foi consolidado em
+> **Note:** this repository has been consolidated into
 > [java-exercises](https://github.com/ShiMigui/java-exercises) (`spring-boot/atividade-poo`).
-> Mantido aqui apenas como referência.
+> It is kept here for reference only.
